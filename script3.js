@@ -151,5 +151,4 @@ for (let i = 1; i <= 100; i++) {
 console.log(res)*/
 
 
-var test11 = NaN;
-console.log(typeof test11);
+2 - chi dars
