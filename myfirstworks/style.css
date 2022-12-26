@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+
+body {
+    font-family: "Kaushan Script", cursive;
+    background: var(--mainWhite);
+    color: var(--mainBlack);
+  }
