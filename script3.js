@@ -142,13 +142,12 @@ console.log('N', N) */
 console.log('oxirgiYozganSonim', oxirgiYozganSonim)
 console.log('mendanSoralganSon', mendanSoralganSon) */  
 
-/*var res = 0;
+var res = 0;
 var index = 1;
 for (let i = 1; i <= 100; i++) {
     res = res + index * i * i;
     index = index * (-1);
 } 
-console.log(res)*/
+console.log(res)
 
 
-2 - chi dars
